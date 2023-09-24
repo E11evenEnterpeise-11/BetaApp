@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BetaApp",
-    "slug": "BetaApp",
+    "slug": "betaapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb4f34e8-aaf3-4d7e-ab4c-29c9b44c8a1f"
+      }
+    },
+    "owner": "drizzyleo"
   }
 }
